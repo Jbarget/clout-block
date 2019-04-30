@@ -1,0 +1,7 @@
+/* facebook classes */
+._3vum, /* stats box on main page */
+._6iib, /* stats on photo modal */
+._6cuq /* reactions on comments */
+ {
+  display: none !important;
+}
