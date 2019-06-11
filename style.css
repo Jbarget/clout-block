@@ -1,7 +1,18 @@
 /* facebook classes */
 ._3vum, /* stats box on main page */
 ._6iib, /* stats on photo modal */
-._6cuq /* reactions on comments */
- {
+._6cuq, /* reactions on comments */
+
+/* instagram classes */
+.Nm9Fw,
+.k9GMp,
+.qn-0x,
+
+/* twitter classes */
+.js-stat-count,
+.ProfileTweet-actionCount,
+.ProfileTweet-actionCountForPresentation,
+.avatar-row,
+.ProfileNav-list {
   display: none !important;
 }
