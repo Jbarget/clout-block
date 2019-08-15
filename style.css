@@ -2,11 +2,24 @@
 ._3vum, /* stats box on main page */
 ._6iib, /* stats on photo modal */
 ._6cuq, /* reactions on comments */
+._44bh, /* views count on video */
+._7goz, /* likes on media page */
+._7gp7, /* middot in between stats */
+._ipp, /* likes on full screen media page */
+._ipm._2x0m, /* shares on full screen media page */
+._2pi9._2pi2, /* page statistics on the right hand side */
+
 
 /* instagram classes */
 .Nm9Fw,
 .k9GMp,
 .qn-0x,
+.EDfFK.ygqzn, /* view conut on video*/
+
+/* LinkedIn classes */
+.social-details-social-counts__reactions,
+.pv-recent-activity-item-v2__social-counts-item--likes,
+.comments-comment-social-bar__likes-count,
 
 /* twitter classes */
 .js-stat-count,
